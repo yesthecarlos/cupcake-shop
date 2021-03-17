@@ -1,7 +1,17 @@
 .flashy {
 color:darkred;
-font-style: italic;}
+font-style: italic;
+text-align: center;
+font-size: 32px;
+font-family: 'Raleway', sans-serif;
+}
+
 img {
-max-width:100%;
+max-width:60%;
 height:auto;
-border-radius: 5px;}
+border-radius: 5px;
+}
+
+.bigger {
+font-size: 40px;
+}
